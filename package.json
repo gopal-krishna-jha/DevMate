@@ -1,0 +1,23 @@
+{
+  "name": "devmate",
+  "version": "1.0.0",
+  "description": "Place where devlopers can meet and make new connections.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "backend",
+    "fullstack",
+    "project",
+    "mongodb"
+  ],
+  "author": "Gopal Krishna Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
